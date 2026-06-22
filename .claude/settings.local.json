@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(vercel --version)",
+      "Bash(gh auth *)",
+      "Bash(git init *)",
+      "Bash(git branch *)",
+      "Bash(npx create-next-app@latest *)",
+      "Bash(gh repo *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)"
+    ]
+  }
+}
