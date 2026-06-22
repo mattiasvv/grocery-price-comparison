@@ -9,7 +9,9 @@
       "Bash(npx create-next-app@latest *)",
       "Bash(gh repo *)",
       "Bash(git add *)",
-      "Bash(git commit -m ' *)"
+      "Bash(git commit -m ' *)",
+      "Bash(git remote *)",
+      "Bash(git push *)"
     ]
   }
 }
